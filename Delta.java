@@ -278,6 +278,6 @@ public class Delta extends JFrame implements ActionListener {
     }
     public static void main(String args[])
     {
-        new Delta("Mock Test");
+        new Delta("Data Structures Quiz");
     }
 }
